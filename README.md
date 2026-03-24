@@ -8,7 +8,7 @@ My name is Alexander 'Alex' Jones, and I'm an aspiring Computer Science student 
 
 - **Education**:
   - **Landstown High School (Virginia Beach, Virginia)** - June 2012
-  - **Electronics Technician "A" School (Great Lakes, Chicago)** - October, 2018
+  - **Electronics Technician "A" School (Great Lakes, Illinois)** - October, 2018
   - **Information Systems Maintenance "C" School (San Diego, California)** - April, 2019
   - **Northeast State Community College (Bristol, TN)** - January, 2024 to Present
 - **Primary Languages**: C#, Python, JavaScript
