@@ -26,9 +26,3 @@ My goal is to continue to grow as a developer, contributing to open-source proje
 
 - Contributed to a repository that uses Jupyter Notebooks to demonstrate discrete mathematical structures: [check it out here.](https://github.com/jmcmeen/discrete-structures)
 - Created a repository for a college C# project that demonstrates by ability to create a WinForms apps, integrate APIs, and create meaningful classes with inheritance: [check it out here.](https://github.com/alex-jns/neows-gui)
-
----
-
-## Contact Me
-
-- **LinkedIn**: [alex-jns](https://www.linkedin.com/in/alexanderrayjones/)
