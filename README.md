@@ -9,7 +9,7 @@ My name is Alexander 'Alex' Jones, and I'm an aspiring Computer Science student 
   - **Electronics Technician "A" School (Great Lakes, Illinois)** - October, 2018
   - **Information Systems Maintenance "C" School (San Diego, California)** - April, 2019
   - **Northeast State Community College (Bristol, TN)** - January, 2024 to Present
-- **Primary Languages**: C#, Python, JavaScript
+- **Skills**: C#, Python, PowerShell, Bash, JavaScript, TypeScript, Docker, Kubernetes, CI/CD
 - **Location**: Bristol, Tennessee, USA
 
 ## Interests & Skills
